@@ -27,7 +27,7 @@
 
 ## The site
 
-This repository hosts the official landing page — a single-page, dark, Apple-style site built with plain **HTML, CSS and vanilla JavaScript** (no frameworks, no build step). Deployed via **GitHub Pages** on the custom domain [finnthepin.com](https://finnthepin.com).
+This repository hosts the official landing page: a single-page, dark, Apple-style site built with plain **HTML, CSS and vanilla JavaScript** (no frameworks, no build step). Deployed via **GitHub Pages** on the custom domain [finnthepin.com](https://finnthepin.com).
 
 ```
 .
@@ -48,6 +48,6 @@ python3 -m http.server 8080
 
 <div align="center">
 
-A project by **Team 7 — Prototyping Factory**
+A project by **Team 7 · Prototyping Factory**
 
 </div>
