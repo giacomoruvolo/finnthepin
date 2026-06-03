@@ -16,14 +16,14 @@
 
 ## About
 
-**Finn the Pin** is a magnetic wearable that attaches to clothing and pairs with wireless earphones. A built-in camera and Generative AI read the surrounding world and speak it back — privately, in real time — helping users navigate streets, recognise text and signals, and move through daily life with autonomy and dignity.
+**Finn the Pin** is a magnetic wearable that attaches to clothing and pairs with wireless earphones. A built-in camera and Generative AI read the surrounding world and speak it back, privately and in real time, helping users navigate streets, recognise text and signals, and move through daily life with autonomy and dignity.
 
-- **Obstacle detection** — real-time hazard alerts
-- **Text & label reading** — labels, prices, expiry dates, signage
-- **Traffic & signals** — pedestrian lights, crossings, bus numbers
-- **Navigation** — turn-by-turn, indoors and outdoors
-- **Voice & tap** — no screen, no buttons, no attention
-- **Private audio** — continuous, contextual cues for you only
+- **Obstacle detection**: real-time hazard alerts
+- **Text & label reading**: labels, prices, expiry dates, signage
+- **Traffic & signals**: pedestrian lights, crossings, bus numbers
+- **Navigation**: turn-by-turn, indoors and outdoors
+- **Voice & tap**: no screen, no buttons, no attention
+- **Private audio**: continuous, contextual cues for you only
 
 ## The site
 
