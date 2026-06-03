@@ -1,5 +1,19 @@
 // ===== Finn the Pin — interactions =====
 
+// Always start at the top on reload (disable browser scroll restoration)
+if ('scrollRestoration' in history) {
+  history.scrollRestoration = 'manual';
+}
+function scrollToTop() {
+  if (window.location.hash) {
+    history.replaceState(null, '', window.location.pathname + window.location.search);
+  }
+  window.scrollTo(0, 0);
+}
+scrollToTop();
+window.addEventListener('beforeunload', () => window.scrollTo(0, 0));
+window.addEventListener('pageshow', scrollToTop);
+
 // Year
 document.getElementById('year').textContent = new Date().getFullYear();
 
